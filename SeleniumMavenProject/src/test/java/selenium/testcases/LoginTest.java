@@ -68,4 +68,10 @@ public class LoginTest {
 		}	
 	}
 	
+	//testing
+	public void loginWithValidUsernameAndInvalidPassword() {
+		
+		System.out.println("Test");
+	}
+	
 }
