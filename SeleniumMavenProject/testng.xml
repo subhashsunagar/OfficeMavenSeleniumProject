@@ -5,8 +5,6 @@
     <classes>
 		<class name="selenium.testcases.LoginTest"/>
      	<class name="selenium.testcases.SearchTest"/>
- 
-      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
